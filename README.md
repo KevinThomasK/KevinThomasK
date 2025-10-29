@@ -72,7 +72,7 @@ const developer = {
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Contribution%20Graph&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area_color=A9FEF7&area=true&hide_border=true)](https://github.com/KevinThomasK)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KevinThomasK&custom_title=Contribution%20Graph&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area_color=A9FEF7&area=true&hide_border=true)](https://github.com/KevinThomasK)
 
 
 ## 🤝 Connect With Me
