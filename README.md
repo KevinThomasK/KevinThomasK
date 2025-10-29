@@ -69,25 +69,11 @@ const developer = {
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Contribution%20Graph&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area_color=A9FEF7&area=true&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Contribution%20Graph&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area_color=A9FEF7&area=true&hide_border=true)](https://github.com/KevinThomasK)
 
-## 🎯 Current Projects
-
-- 🔭 I'm currently working on **[Project Name]**
-- 🌱 I'm learning **[Technology/Framework]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, APIs, Database Design**
-- ⚡ Fun fact: **[Your fun fact here]**
 
 ## 🤝 Connect With Me
 
