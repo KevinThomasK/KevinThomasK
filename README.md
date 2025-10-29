@@ -10,8 +10,8 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
-    location: "Your City, Country",
+    name: "Kevin Thomas",
+    location: "Kochi, India",
     currentRole: "Software Developer",
     passions: ["Coding", "Problem Solving", "Learning", "Coffee ☕"],
     code: ["JavaScript", "Python", "TypeScript", "Java"],
@@ -69,6 +69,13 @@ const developer = {
 
 </div>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=KevinThomasK&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
 
 ## 📈 Activity Graph
 
@@ -95,11 +102,11 @@ const developer = {
 
 </div>
 
-## 🐍 Contribution Snake
+## 📊 Contribution Stats
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/KevinThomasK/KevinThomasK/output/github-contribution-grid-snake-dark.svg)
+![](https://github-readme-activity-graph.vercel.app/graph?username=KevinThomasK&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -111,6 +118,6 @@ const developer = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KevinThomasK&color=blueviolet&style=for-the-badge)
 
-**⭐️ From [Your Name](https://github.com/KevinThomasK)**
+**⭐️ From [KevinThomasK](https://github.com/KevinThomasK)**
 
 </div>
