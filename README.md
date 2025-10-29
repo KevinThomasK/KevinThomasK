@@ -99,7 +99,7 @@ const developer = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/KevinThomasK/KevinThomasK/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -109,8 +109,8 @@ const developer = {
 
 ### 💖 Show some love by starring some repositories!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=KevinThomasK&color=blueviolet&style=for-the-badge)
 
-**⭐️ From [Your Name](https://github.com/YOUR_USERNAME)**
+**⭐️ From [Your Name](https://github.com/KevinThomasK)**
 
 </div>
