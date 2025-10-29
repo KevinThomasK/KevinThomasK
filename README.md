@@ -61,11 +61,11 @@ const developer = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinThomasK&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=A9FEF7&ring=A9FEF7&fire=FF6B6B&currStreakLabel=A9FEF7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinThomasK&theme=radical&hide_border=true&background=0D1117&stroke=A9FEF7&ring=A9FEF7&fire=FF6B6B&currStreakLabel=A9FEF7)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinThomasK&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=FFFFFF)
 
 </div>
 
