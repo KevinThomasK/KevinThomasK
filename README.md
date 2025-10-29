@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, I'm Kevin Thomas!
 
 <div align="center">
   
